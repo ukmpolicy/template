@@ -1,0 +1,88 @@
+body {
+  background-color: white;
+  font-family: 'Assistant', sans-serif;
+}
+
+.navbar-brand img {
+  max-height: 70px;
+}
+
+.navbar {
+  background-color: #000000;
+}
+
+.btn-get-started {
+  background-color: #ce1515;
+  color: #fff;
+}
+
+.btn-get-started:hover {
+  background-color: #f02323;
+  color: #fff;
+}
+
+.btn-navbar-right {
+  margin-top: -10px !important;
+  margin-bottom: -8px !important;
+  margin-right: -18px !important;
+  height: 70px;
+  border-radius: 0;
+}
+
+.section-succes {
+  height: 90vh;
+}
+
+.section-succes h1 {
+  font-weight: 600;
+  font-size: 26px;
+  color: #071C4D;
+}
+
+.section-succes p {
+  font-weight: 300;
+  font-size: 18px;
+  color: #b1b1b1;
+}
+
+.section-succes .btn-home-page {
+  border-radius: 4px;
+  background-color: #071c4d;
+  color: #fff;
+}
+
+.section-succes .btn-home-page:hover {
+  background-color: #2A488E;
+  color: #fff;
+}
+
+.btn-login {
+  background-color: #ce1515;
+  color: #fff;
+}
+
+.btn-login:hover {
+  background-color: #f02323;
+  color: #fff;
+}
+
+ul li span {
+  font-size: 35px;
+  color: whitesmoke;
+}
+
+.form-pendaftaran {
+  background-color: white;
+  min-height: auto;
+}
+
+.section-footer a {
+  color: #071C4D;
+}
+
+.pendaftaranTutup {
+  font-size: 40px;
+  font-weight: bolder;
+  font-family: 'Montserrat', sans-serif;
+}
+/*# sourceMappingURL=main.css.map */
